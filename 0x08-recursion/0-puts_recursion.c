@@ -20,7 +20,7 @@ void _puts_recursion(char *s)
 		putchar('\n');
 	}
 	int main()
-	{
+0-puts_recursion.c	{
 		_puts_recursion("Hello world\n");
 		return(0);
 	}
