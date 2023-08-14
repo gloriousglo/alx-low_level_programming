@@ -4,7 +4,7 @@
 /**
  * _puts_recursion - prints a string, followed by a new line.
  * @s: string
- * Return: no return.
+ * Return: return nothing
  */
 
 void _puts_recursion(char *s)
@@ -18,10 +18,5 @@ void _puts_recursion(char *s)
 	else
 	{
 		putchar('\n');
-	}
-	int main()
-0-puts_recursion.c	{
-		_puts_recursion("Hello world\n");
-		return(0);
 	}
 }
