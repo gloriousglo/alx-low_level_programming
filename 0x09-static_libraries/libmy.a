@@ -1,1 +1,1 @@
-ar -rc libmy.a *.o
+ar -rc. libmy.a *.0
