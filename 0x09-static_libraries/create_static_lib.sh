@@ -2,7 +2,7 @@
 
 gcc -Wall -Werror -Wextra -c *.c
 
-ar rc libschool.a *.o
+ar rc liball.a *.o
 
-ranlib libschool.a
+ranlib liball.a
 
